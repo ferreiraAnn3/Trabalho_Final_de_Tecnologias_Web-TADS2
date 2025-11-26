@@ -5,7 +5,7 @@
 O site foi desenvolvido para uma campanha solidária e comunitária para facilitar a arrecadação de doações e procura por voluntários para sua realização.
 
 
-# 1. Processo de Desenvolvimento e Customizações
+## 1. Processo de Desenvolvimento e Customizações
 O projeto foi desenvolvido a partir do template *Agency* do Start Bootstrap. O objetivo foi transformar o layout  em uma página funcional e acolhedora para uma campanha comunitária de Natal.
 
 # *Customizações Realizadas*
