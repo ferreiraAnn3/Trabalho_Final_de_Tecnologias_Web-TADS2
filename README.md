@@ -30,6 +30,7 @@ Os dois formulários possuem validação que impede o envio de campos vazios e v
 
 ## 3. Apoio da Inteligência Artificial
 A IA Gemini foi utilizada como ferramenta e tutora durante o desenvolvimento :
+
 **Correção de Sintaxe:** Identificação de erros no HTML (no caminho dos botões).
 
 **Lógica JavaScript:** Explicação do script que conecta os botões dos Modais aos formulário de inscrição (seleção automática).
