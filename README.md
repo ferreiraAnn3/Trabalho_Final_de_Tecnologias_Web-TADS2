@@ -11,7 +11,7 @@ O projeto foi desenvolvido a partir do template *Agency* do Start Bootstrap. O o
 # *Customizações Realizadas*
 *Substituição das cores*: As cores originais foram todas substiruídas por uma paleta natalina (Vermelho, Verde, Creme).
 
-*Estrutura:* Alteração das seções anteriores originais pelas novas: "Cartinhas", "Fábrida de Sonhos", "Nossa História".
+*Estrutura:* Alteração das seções anteriores originais pelas novas: "Cartinhas", "Fábrida de Sonhos", "Nossa História" e outras mais.
 
 **Estilização:** No uso do CSS a IA me ensinou a usar o (`!important`) para forçar estilos nos botões e nas cores de fundo, sem ter que mexer e perder muito tempo no código nativo do template, além da troca de ícones pela biblioteca Bootstrap Icons.
 
